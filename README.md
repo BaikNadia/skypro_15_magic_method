@@ -1,0 +1,1 @@
+# skypro_15_magic_method
